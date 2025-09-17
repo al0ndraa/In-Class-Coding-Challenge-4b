@@ -25,4 +25,3 @@ product.promoPrice = promoPrice
 console.log(products);
 
 
-
